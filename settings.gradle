@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "BaiTapLon_BaiSo3"
